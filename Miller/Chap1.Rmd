@@ -1,0 +1,50 @@
+---
+title: "Chapter 1 - Some Basic Math"
+author: "Michael B. Miller"
+date: "September 16, 2016"
+output: pdf_document
+---
+
+## Logarithms
+
+Logarithms are related to exponents as follows:
+
+$$\log_{b} a = x \iff a = b^{x}$$
+
+
+
+## Log Returns
+
+
+
+## Compounding
+
+
+## Limited Liability
+
+
+
+## Graphing Log Returns
+
+
+
+
+## Continuously Compounded Returns
+
+
+
+## Combinatorics
+
+
+
+## Discount Factors
+
+
+
+## Geometric Series
+
+
+
+
+
+
